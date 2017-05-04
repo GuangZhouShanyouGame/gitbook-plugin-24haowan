@@ -1,0 +1,10 @@
+{
+    "name": "gitbook-plugin-24haowan",
+    "version": "1.0.0",
+    "main": "index.js",
+    "engines": {
+        "gitbook": ">=2.5.0"
+    },
+    "author": "Wu Yifeng",
+    "license": "MIT"
+}
