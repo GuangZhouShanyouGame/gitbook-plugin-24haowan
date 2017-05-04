@@ -1,5 +1,5 @@
 /* 更改导航栏的高亮颜色 */
-.book-summary .chapter.active a {
+.book-summary .chapter.active > a {
     color: #1ABC9C !important;
 }
 
