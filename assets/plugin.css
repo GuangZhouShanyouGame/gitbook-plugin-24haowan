@@ -1,3 +1,15 @@
-.book .navigation .chapter .active {
-    color: #1ABC9C;
+/* 更改导航栏的高亮颜色 */
+.book-summary .chapter.active a {
+    color: #1ABC9C !important;
+}
+
+/* 隐藏导航栏不需要的链接 */
+.summary > li .custom-link,
+.summary > li.divider,
+.summary > li .gitbook-link {
+    display: none !important;
+}
+
+.summary {
+    padding-bottom: 20px !important;
 }
